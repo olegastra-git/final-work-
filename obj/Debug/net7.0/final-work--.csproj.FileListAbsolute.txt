@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Source\Repos\olegastra-git\final-work--\bin\Debug\net7.0\final-work--.exe
+C:\Users\ADMIN\Source\Repos\olegastra-git\final-work--\bin\Debug\net7.0\final-work--.deps.json
+C:\Users\ADMIN\Source\Repos\olegastra-git\final-work--\bin\Debug\net7.0\final-work--.runtimeconfig.json
+C:\Users\ADMIN\Source\Repos\olegastra-git\final-work--\bin\Debug\net7.0\final-work--.dll
+C:\Users\ADMIN\Source\Repos\olegastra-git\final-work--\bin\Debug\net7.0\final-work--.pdb
+C:\Users\ADMIN\Source\Repos\olegastra-git\final-work--\obj\Debug\net7.0\final-work--.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Source\Repos\olegastra-git\final-work--\obj\Debug\net7.0\final-work--.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Source\Repos\olegastra-git\final-work--\obj\Debug\net7.0\final-work--.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Source\Repos\olegastra-git\final-work--\obj\Debug\net7.0\final-work--.AssemblyInfo.cs
+C:\Users\ADMIN\Source\Repos\olegastra-git\final-work--\obj\Debug\net7.0\final-work--.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Source\Repos\olegastra-git\final-work--\obj\Debug\net7.0\final-work--.dll
+C:\Users\ADMIN\Source\Repos\olegastra-git\final-work--\obj\Debug\net7.0\refint\final-work--.dll
+C:\Users\ADMIN\Source\Repos\olegastra-git\final-work--\obj\Debug\net7.0\final-work--.pdb
+C:\Users\ADMIN\Source\Repos\olegastra-git\final-work--\obj\Debug\net7.0\final-work--.genruntimeconfig.cache
+C:\Users\ADMIN\Source\Repos\olegastra-git\final-work--\obj\Debug\net7.0\ref\final-work--.dll
